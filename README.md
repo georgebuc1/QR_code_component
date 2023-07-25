@@ -14,3 +14,5 @@ This is a solution to the QR code component challenge on Frontend Mentor. Fronte
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+Solution it belongs to : TsbSankara (https://www.youtube.com/@tsbsankara) and i wish to send many thanks !  
