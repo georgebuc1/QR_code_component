@@ -13,7 +13,7 @@ img{
 body {
     font-family:"Outfit", sans-serif;
     font-size: 15px;
-    background-color: var(--lightgray);
+    background-color: var(--light-gray);
     display: flex;
     flex-direction: column;
     justify-content: center;
